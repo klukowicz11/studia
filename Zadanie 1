@@ -1,0 +1,59 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "c1a42b65-54d5-44b0-9796-0e81e05e1eb2",
+   "metadata": {},
+   "source": [
+    " Kacper Informatyka"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "21079973-da1c-48be-b0d9-3fb0764936c2",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello, Data Science!\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello, Data Science!\") "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3d7f1221-c3c3-4d14-aece-8dc881d4796f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-ai-2024.04-py310",
+   "language": "python",
+   "name": "conda-env-anaconda-ai-2024.04-py310-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
